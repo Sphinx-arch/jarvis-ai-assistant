@@ -28,11 +28,6 @@ Jarvis AI is a Python-based desktop voice assistant with a graphical user interf
 - `tkinter` or `PyQt5`
 - `datetime`, `os`, `subprocess`
 
----
-
-## 🖼 Screenshot
-
-> (Insert a screenshot of your GUI here — optional)
 
 ---
 
