@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Test output / coverage
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# PyInstaller
+#  Usually contains build artifacts for standalone executables
+dist/
+build/
+*.spec
+
+# Data files
+*.data
+*.db
+*.sqlite3
+*.bak
+
+# Node.js (if you have frontend code using npm)
+node_modules/
+
+# Cache and temporary files
+*.tmp
+*.swp
+*.swo
+
+# Executables
+*.exe
+*.out
+*.dll
+*.so
+
+# Python virtual env tools
+Pipfile.lock
+poetry.lock
+
+# Ignore compiled UI files (for GUI)
+*.ui.py
+
+# Ignore environment variable/config files
+.env
+.env.*
+
+# Ignore local settings and debug info
+settings_local.py
+config_dev.py
+*.debug
+ 
